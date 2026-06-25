@@ -206,7 +206,6 @@ probability = min(0.95, score * scale_factor)
 ## 👤 Author
 
 **Harshit Maheshwari**
-B.Tech IT · Manipal University Jaipur · GPA 9.28 · Dean's List ×6
 
 [![GitHub](https://img.shields.io/badge/GitHub-Harshitmaheshwari10-181717?style=flat&logo=github)](https://github.com/Harshitmaheshwari10)
 
