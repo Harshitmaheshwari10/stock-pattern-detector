@@ -618,5 +618,15 @@ with col_right:
                     mime="text/csv",
                 )
 
+# ── Footer ───────────────────────────────────────────────────────────────────
 
+st.markdown("<br><hr>", unsafe_allow_html=True)
+st.markdown("""
+<div style="text-align:center; color:#8B949E; font-size:0.78rem; padding:0.5rem 0;">
+  Built by <b style="color:#58A6FF;">Harshit Maheshwari</b> ·
+  Python · OpenCV · Streamlit · Plotly ·
+  <a href="https://github.com/Harshitmaheshwari10" target="_blank"
+     style="color:#58A6FF; text-decoration:none;">GitHub ↗</a>
+</div>
+""", unsafe_allow_html=True)
 
